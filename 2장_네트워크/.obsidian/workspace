@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "45f7a361e42e78f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "160f188e2a4fd974",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2.2_TCP IP 4계층 모델/2.2.1_계층 구조.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b43a8c614ccb1504",
+    "type": "split",
+    "children": [
+      {
+        "id": "75beafe35eadaa02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2d93da836909a34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c7dcfae43a74167",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "813d50a22eb96874",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad82fd9a92080a3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "423502918f326acb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0336c099780e0163",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2.2_TCP IP 4계층 모델/2.2.1_계층 구조.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06c51b4b3c01094b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2.2_TCP IP 4계층 모델/2.2.1_계층 구조.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e3bab71e05d46cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa615c27f0965c1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2.2_TCP IP 4계층 모델/2.2.1_계층 구조.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "160f188e2a4fd974",
+  "lastOpenFiles": [
+    "2.1_네트워크의 기초/2.1.3_네트워크 분류.md",
+    "2.2_TCP IP 4계층 모델/2.2.1_계층 구조.md",
+    "2.2_TCP IP 4계층 모델/2.2.2_PDU.md"
+  ]
+}
