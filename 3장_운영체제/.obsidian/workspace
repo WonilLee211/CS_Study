@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "ba2fd5c2b703c9ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "059408ab74935f88",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88c018a9ddef8008",
+    "type": "split",
+    "children": [
+      {
+        "id": "24912017c10637d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b92cde26dba1622",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2c1ff6bc883406a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a15b239ba064dab",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 136.5
+  },
+  "right": {
+    "id": "442d23716b3f03f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "016b021e1f525bc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc5627830ff02c3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a74f89384182ea9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "364d586720016b98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "95fac0678df94139",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "059408ab74935f88",
+  "lastOpenFiles": [
+    "3.1_운영체제와 컴퓨터/3.1.1 운영체제의 역할과 구조.md",
+    "README.md"
+  ]
+}
